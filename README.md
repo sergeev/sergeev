@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/Vasily%20Sergeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasily-sergeev/)
+[![Linkedin](https://img.shields.io/badge/Vasily%20Sergeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasily-sergeev-078b31181/)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=sergeev&style=flat)

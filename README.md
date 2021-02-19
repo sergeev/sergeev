@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/badge/-sergeev-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/sergeev)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![vvscode's github stats](https://github-readme-stats.vercel.app/api?username=sergeev&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+![sergeev's github stats](https://github-readme-stats.vercel.app/api?username=sergeev&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
 
 <!--
 **sergeev/sergeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

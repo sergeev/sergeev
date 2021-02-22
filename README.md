@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/badge/-sergeev-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/sergeev)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![sergeev's github stats](https://github-readme-stats.vercel.app/api?username=sergeev&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+![sergeev's github stats](https://github-readme-stats.vercel.app/api?username=sergeev&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 

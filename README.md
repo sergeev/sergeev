@@ -3,6 +3,8 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/Vasily%20Sergeev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasily-sergeev-078b31181/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergeev&theme=matrix)
+
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=sergeev&style=flat)
 [![Github](https://img.shields.io/badge/-sergeev-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/sergeev)
